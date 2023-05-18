@@ -1,0 +1,109 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+}
+
+
+section.the-css-at-table {
+    display: table;
+    border-collapse: collapse;
+    margin: 0 0 20px 0;
+}
+
+    section.the-css-at-table > header {
+        display: table-header-group !important;
+    }
+
+.tbody {
+    display: table-row-group;
+}
+
+.tr {
+    display: table-row;
+}
+
+    .tr > span {
+        display: table-cell;
+        padding: 10px;
+        border: 1px solid #E6E7F1;
+        text-align: left;
+    }
+
+    .tr:nth-child(odd) {
+        background-color: #F6F7FA;
+    }
+
+    .tr:nth-child(even) {
+        background-color: white;
+    }
+
+.th {
+    background: #798299;
+    border-color: darken(#798299, 10%);
+    color: white;
+}
+
+.tr > span > .title {
+    display: none;
+}
+
+.no-style-break {
+    display: none;
+}
+
+.tbody > .spacer {
+    display: none;
+}
+
+@media (max-width: 700px) {
+    section.the-css-at-table {
+        display: block;
+    }
+
+        section.the-css-at-table > header {
+            display: none !important;
+        }
+
+    .tbody {
+        display: block;
+    }
+
+    .tr {
+        display: block;
+        margin: 0 0 20px 0;
+    }
+        .tr > span {
+            display: block;
+        }
+
+        .tr > span > .title {
+            display: block;
+        }
+}
+
+.tr > span::before {
+    display: inline-block;
+    width: 33%;
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+.title {
+    display: inline-block;
+    width: 30%;
+    font-weight: bold;
+}
