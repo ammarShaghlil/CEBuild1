@@ -1508,6 +1508,7 @@
       },
       "LP.CommissionEngine.ExternalIntegrations/1.0.0": {
         "dependencies": {
+          "LP.CommissionEngine.Core.Persistence.Interfaces": "1.0.0",
           "LP.CommissionEngine.DummyData": "1.0.0",
           "LP.Utilities": "1.0.0"
         },
