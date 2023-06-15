@@ -1282,6 +1282,7 @@
           "LP.CommissionEngine.Core.Domain": "1.0.0",
           "MySql.Data": "8.0.29",
           "MySql.EntityFrameworkCore": "6.0.1",
+          "Newtonsoft.Json": "13.0.1",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "6.0.2"
         },
         "runtime": {
