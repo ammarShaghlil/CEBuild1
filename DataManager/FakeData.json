@@ -1,0 +1,537 @@
+{
+  "getOrderHistories": [
+    {
+      "orderId": 1,
+      "contractId": "123",
+      "serviceType": "ZVA_FIBERNET_BASIC",
+      "servicePrice": 16,
+      "createdBy": "0001",
+      "startDate": "2022-07-04",
+      "soldToParty": "123455"
+    },
+    {
+      "orderId": 2,
+      "contractId": "123",
+      "serviceType": "ZVA_FIBERNET_BASIC",
+      "servicePrice": 10,
+      "createdBy": "0001",
+      "startDate": "2022-07-04",
+      "soldToParty": "123455"
+    },
+    {
+      "orderId": 3,
+      "contractId": "123",
+      "serviceType": "ZVA_FIBERNET_LITE",
+      "servicePrice": 9,
+      "createdBy": "0001",
+      "startDate": "2022-07-04",
+      "soldToParty": "123455"
+    },
+    {
+      "orderId": 4,
+      "contractId": "123",
+      "serviceType": "ZVA_FIBERNET_LITE",
+      "servicePrice": 10,
+      "createdBy": "0001",
+      "startDate": "2022-07-04",
+      "soldToParty": "123455"
+    },
+    {
+      "orderId": 5,
+      "contractId": "123",
+      "serviceType": "ZVA_FIBERNET_LITE",
+      "servicePrice": 11,
+      "createdBy": "0001",
+      "startDate": "2022-07-04",
+      "soldToParty": "123455"
+    },
+    {
+      "orderId": 6,
+      "contractId": "123",
+      "serviceType": "ZVA_FIBERNET_LITE",
+      "servicePrice": 15,
+      "createdBy": "0001",
+      "startDate": "2022-07-04",
+      "soldToParty": "123455"
+    },
+    {
+      "orderId": 7,
+      "contractId": "123",
+      "serviceType": "ZVA_FIBERNET_Basic",
+      "servicePrice": 10,
+      "createdBy": "0001",
+      "startDate": "2022-07-04",
+      "soldToParty": "123455"
+    },
+    {
+      "orderId": 8,
+      "contractId": "123",
+      "serviceType": "ZVA_FIBERNET_LITE",
+      "servicePrice": 9,
+      "createdBy": "0001",
+      "startDate": "2022-07-04",
+      "soldToParty": "123455"
+    },
+    {
+      "orderId": 9,
+      "contractId": "123",
+      "serviceType": "ZVA_FIBERNET_LITE",
+      "servicePrice": 11,
+      "createdBy": "0001",
+      "startDate": "2022-07-04",
+      "soldToParty": "123455"
+    },
+    {
+      "orderId": 10,
+      "contractId": "123",
+      "serviceType": "ZVA_FIBERNET_LITE",
+      "servicePrice": 4,
+      "createdBy": "0001",
+      "startDate": "2022-07-04",
+      "soldToParty": "123455"
+    },
+    {
+      "orderId": 11,
+      "contractId": "123",
+      "serviceType": "ZVA_FIBERNET_LITE",
+      "servicePrice": 5,
+      "createdBy": "0001",
+      "startDate": "2022-07-04",
+      "soldToParty": "123455"
+    },
+    {
+      "orderId": 12,
+      "contractId": "123",
+      "serviceType": "ZVA_FIBERNET_LITE",
+      "servicePrice": 10,
+      "createdBy": "0001",
+      "startDate": "2022-07-04",
+      "soldToParty": "123455"
+    },
+    {
+      "orderId": 13,
+      "contractId": "123",
+      "serviceType": "ZVA_FIBERNET_LITE",
+      "servicePrice": 9,
+      "createdBy": "0001",
+      "startDate": "2022-07-04",
+      "soldToParty": "123455"
+    },
+    {
+      "orderId": 14,
+      "contractId": "123",
+      "serviceType": "ZVA_FIBERNET_LITE",
+      "servicePrice": 11,
+      "createdBy": "0001",
+      "startDate": "2022-07-04",
+      "soldToParty": "123455"
+    },
+    {
+      "orderId": 15,
+      "contractId": "123",
+      "serviceType": "ZVA_FIBERNET_LITE",
+      "servicePrice": 4,
+      "createdBy": "0001",
+      "startDate": "2022-07-04",
+      "soldToParty": "123455"
+    },
+    {
+      "orderId": 16,
+      "contractId": "123",
+      "serviceType": "ZVA_FIBERNET_LITE",
+      "servicePrice": 5,
+      "createdBy": "0001",
+      "startDate": "2022-07-04",
+      "soldToParty": "123455"
+    },
+    {
+      "orderId": 17,
+      "contractId": "123",
+      "serviceType": "ZVA_FIBERNET_LITE",
+      "servicePrice": 10,
+      "createdBy": "0001",
+      "startDate": "2022-07-04",
+      "soldToParty": "123455"
+    }
+  ],
+  "getPaymentHistories": [
+    {
+      "paymentId": 1,
+      "total": 21,
+      "PaymentDate": "2022-07-20",
+      "vat": 1,
+      "activationId": "1",
+      "userId": "0001"
+    },
+    {
+      "paymentId": 2,
+      "total": 5,
+      "PaymentDate": "2022-07-20",
+      "vat": 1,
+      "activationId": "1",
+      "userId": "0001"
+    },
+    {
+      "paymentId": 3,
+      "total": 2,
+      "PaymentDate": "2022-07-20",
+      "vat": 1,
+      "activationId": "1",
+      "userId": "0001"
+    },
+    {
+      "paymentId": 4,
+      "total": 21,
+      "PaymentDate": "2022-07-20",
+      "vat": 1,
+      "activationId": "1",
+      "userId": "0001"
+    },
+    {
+      "paymentId": 5,
+      "total": 5,
+      "PaymentDate": "2022-07-20",
+      "vat": 1,
+      "activationId": "1",
+      "userId": "0001"
+    },
+    {
+      "paymentId": 6,
+      "total": 2,
+      "PaymentDate": "2022-07-20",
+      "vat": 1,
+      "activationId": "1",
+      "userId": "0001"
+    },
+    {
+      "paymentId": 7,
+      "total": 21,
+      "PaymentDate": "2022-07-20",
+      "vat": 1,
+      "activationId": "1",
+      "userId": "0001"
+    },
+    {
+      "paymentId": 8,
+      "total": 20,
+      "PaymentDate": "2022-07-20",
+      "vat": 1,
+      "activationId": "1",
+      "userId": "0001"
+    },
+    {
+      "paymentId": 9,
+      "total": 5,
+      "PaymentDate": "2022-07-20",
+      "vat": 1,
+      "activationId": "1",
+      "userId": "0001"
+    },
+    {
+      "paymentId": 10,
+      "total": 2,
+      "PaymentDate": "2022-07-20",
+      "vat": 1,
+      "activationId": "1",
+      "userId": "0001"
+    },
+    {
+      "paymentId": 11,
+      "total": 6,
+      "PaymentDate": "2022-07-20",
+      "vat": 1,
+      "activationId": "1",
+      "userId": "0001"
+    }
+  ],
+  "getUpgradeHistories": [
+    {
+      "upgradeId": 1,
+      "oldPlan": "ZVA_FIBERNET_BASIC",
+      "newPlan": "ZVA_FIBERNET_LITE",
+      "newPrice": 10,
+      "upgradeBy": "0001",
+      "upgradeDate": "2022-07-20",
+      "soldToParty": "123457"
+    },
+    {
+      "upgradeId": 2,
+      "oldPlan": "ZVA_FIBERNET_BASIC",
+      "newPlan": "ZVA_FIBERNET_LITE",
+      "newPrice": 3,
+      "upgradeBy": "0001",
+      "upgradeDate": "2022-07-20",
+      "soldToParty": "123457"
+    },
+    {
+      "upgradeId": 3,
+      "oldPlan": "ZVA_FIBERNET_BASIC",
+      "newPlan": "ZVA_FIBERNET_LITE",
+      "newPrice": 5,
+      "upgradeBy": "0001",
+      "upgradeDate": "2022-07-20",
+      "soldToParty": "123457"
+    },
+    {
+      "upgradeId": 4,
+      "oldPlan": "ZVA_FIBERNET_BASIC",
+      "newPlan": "ZVA_FIBERNET_LITE",
+      "newPrice": 10,
+      "upgradeBy": "0001",
+      "upgradeDate": "2022-07-20",
+      "soldToParty": "123457"
+    },
+    {
+      "upgradeId": 5,
+      "oldPlan": "ZVA_FIBERNET_BASIC",
+      "newPlan": "ZVA_FIBERNET_LITE",
+      "newPrice": 15,
+      "upgradeBy": "0001",
+      "upgradeDate": "2022-07-20",
+      "soldToParty": "123457"
+    },
+    {
+      "upgradeId": 6,
+      "oldPlan": "ZVA_FIBERNET_BASIC",
+      "newPlan": "ZVA_FIBERNET_LITE",
+      "newPrice": 16,
+      "upgradeBy": "0001",
+      "upgradeDate": "2022-07-20",
+      "soldToParty": "123457"
+    },
+    {
+      "upgradeId": 7,
+      "oldPlan": "ZVA_FIBERNET_BASIC",
+      "newPlan": "ZVA_FIBERNET_LITE",
+      "newPrice": 5,
+      "upgradeBy": "0001",
+      "upgradeDate": "2022-07-20",
+      "soldToParty": "123457"
+    },
+    {
+      "upgradeId": 8,
+      "oldPlan": "ZVA_FIBERNET_BASIC",
+      "newPlan": "ZVA_FIBERNET_LITE",
+      "newPrice": 20,
+      "upgradeBy": "0001",
+      "upgradeDate": "2022-07-20",
+      "soldToParty": "123457"
+    },
+    {
+      "upgradeId": 9,
+      "oldPlan": "ZVA_FIBERNET_BASIC",
+      "newPlan": "ZVA_FIBERNET_LITE",
+      "newPrice": 3,
+      "upgradeBy": "0001",
+      "upgradeDate": "2022-07-20",
+      "soldToParty": "123457"
+    },
+    {
+      "upgradeId": 10,
+      "oldPlan": "ZVA_FIBERNET_BASIC",
+      "newPlan": "ZVA_FIBERNET_LITE",
+      "newPrice": 23,
+      "upgradeBy": "0001",
+      "upgradeDate": "2022-07-20",
+      "soldToParty": "123457"
+    },
+    {
+      "upgradeId": 11,
+      "oldPlan": "ZVA_FIBERNET_BASIC",
+      "newPlan": "ZVA_FIBERNET_LITE",
+      "newPrice": 14,
+      "upgradeBy": "0001",
+      "upgradeDate": "2022-07-20",
+      "soldToParty": "123457"
+    },
+    {
+      "upgradeId": 12,
+      "oldPlan": "ZVA_FIBERNET_BASIC",
+      "newPlan": "ZVA_FIBERNET_LITE",
+      "newPrice": 5,
+      "upgradeBy": "0001",
+      "upgradeDate": "2022-07-20",
+      "soldToParty": "123457"
+    },
+    {
+      "upgradeId": 13,
+      "oldPlan": "ZVA_FIBERNET_BASIC",
+      "newPlan": "ZVA_FIBERNET_LITE",
+      "newPrice": 20,
+      "upgradeBy": "0001",
+      "upgradeDate": "2022-07-20",
+      "soldToParty": "123457"
+    },
+    {
+      "upgradeId": 14,
+      "oldPlan": "ZVA_FIBERNET_BASIC",
+      "newPlan": "ZVA_FIBERNET_LITE",
+      "newPrice": 3,
+      "upgradeBy": "0001",
+      "upgradeDate": "2022-07-20",
+      "soldToParty": "123457"
+    },
+    {
+      "upgradeId": 15,
+      "oldPlan": "ZVA_FIBERNET_BASIC",
+      "newPlan": "ZVA_FIBERNET_LITE",
+      "newPrice": 23,
+      "upgradeBy": "0001",
+      "upgradeDate": "2022-07-20",
+      "soldToParty": "123457"
+    },
+    {
+      "upgradeId": 16,
+      "oldPlan": "ZVA_FIBERNET_BASIC",
+      "newPlan": "ZVA_FIBERNET_LITE",
+      "newPrice": 14,
+      "upgradeBy": "0001",
+      "upgradeDate": "2022-07-20",
+      "soldToParty": "123457"
+    },
+    {
+      "upgradeId": 17,
+      "oldPlan": "ZVA_FIBERNET_BASIC",
+      "newPlan": "ZVA_FIBERNET_LITE",
+      "newPrice": 10,
+      "upgradeBy": "0001",
+      "upgradeDate": "2022-07-20",
+      "soldToParty": "123457"
+    },
+    {
+      "upgradeId": 18,
+      "oldPlan": "ZVA_FIBERNET_BASIC",
+      "newPlan": "ZVA_FIBERNET_LITE",
+      "newPrice": 3,
+      "upgradeBy": "0001",
+      "upgradeDate": "2022-07-20",
+      "soldToParty": "123457"
+    },
+    {
+      "upgradeId": 19,
+      "oldPlan": "ZVA_FIBERNET_BASIC",
+      "newPlan": "ZVA_FIBERNET_LITE",
+      "newPrice": 5,
+      "upgradeBy": "0001",
+      "upgradeDate": "2022-07-20",
+      "soldToParty": "123457"
+    },
+    {
+      "upgradeId": 20,
+      "oldPlan": "ZVA_FIBERNET_BASIC",
+      "newPlan": "ZVA_FIBERNET_LITE",
+      "newPrice": 10,
+      "upgradeBy": "0001",
+      "upgradeDate": "2022-07-20",
+      "soldToParty": "123457"
+    },
+    {
+      "upgradeId": 21,
+      "oldPlan": "ZVA_FIBERNET_BASIC",
+      "newPlan": "ZVA_FIBERNET_LITE",
+      "newPrice": 15,
+      "upgradeBy": "0001",
+      "upgradeDate": "2022-07-20",
+      "soldToParty": "123457"
+    },
+    {
+      "upgradeId": 22,
+      "oldPlan": "ZVA_FIBERNET_BASIC",
+      "newPlan": "ZVA_FIBERNET_LITE",
+      "newPrice": 16,
+      "upgradeBy": "0001",
+      "upgradeDate": "2022-07-20",
+      "soldToParty": "123457"
+    },
+    {
+      "upgradeId": 23,
+      "oldPlan": "ZVA_FIBERNET_BASIC",
+      "newPlan": "ZVA_FIBERNET_LITE",
+      "newPrice": 5,
+      "upgradeBy": "0001",
+      "upgradeDate": "2022-07-20",
+      "soldToParty": "123457"
+    },
+    {
+      "upgradeId": 24,
+      "oldPlan": "ZVA_FIBERNET_BASIC",
+      "newPlan": "ZVA_FIBERNET_LITE",
+      "newPrice": 20,
+      "upgradeBy": "0001",
+      "upgradeDate": "2022-07-20",
+      "soldToParty": "123457"
+    },
+    {
+      "upgradeId": 25,
+      "oldPlan": "ZVA_FIBERNET_BASIC",
+      "newPlan": "ZVA_FIBERNET_LITE",
+      "newPrice": 3,
+      "upgradeBy": "0001",
+      "upgradeDate": "2022-07-20",
+      "soldToParty": "123457"
+    },
+    {
+      "upgradeId": 26,
+      "oldPlan": "ZVA_FIBERNET_BASIC",
+      "newPlan": "ZVA_FIBERNET_LITE",
+      "newPrice": 23,
+      "upgradeBy": "0001",
+      "upgradeDate": "2022-07-20",
+      "soldToParty": "123457"
+    },
+    {
+      "upgradeId": 27,
+      "oldPlan": "ZVA_FIBERNET_BASIC",
+      "newPlan": "ZVA_FIBERNET_LITE",
+      "newPrice": 14,
+      "upgradeBy": "0001",
+      "upgradeDate": "2022-07-20",
+      "soldToParty": "123457"
+    },
+    {
+      "upgradeId": 28,
+      "oldPlan": "ZVA_FIBERNET_BASIC",
+      "newPlan": "ZVA_FIBERNET_LITE",
+      "newPrice": 5,
+      "upgradeBy": "0001",
+      "upgradeDate": "2022-07-20",
+      "soldToParty": "123457"
+    },
+    {
+      "upgradeId": 29,
+      "oldPlan": "ZVA_FIBERNET_BASIC",
+      "newPlan": "ZVA_FIBERNET_LITE",
+      "newPrice": 20,
+      "upgradeBy": "0001",
+      "upgradeDate": "2022-07-20",
+      "soldToParty": "123457"
+    },
+    {
+      "upgradeId": 30,
+      "oldPlan": "ZVA_FIBERNET_BASIC",
+      "newPlan": "ZVA_FIBERNET_LITE",
+      "newPrice": 3,
+      "upgradeBy": "0001",
+      "upgradeDate": "2022-07-20",
+      "soldToParty": "123457"
+    },
+    {
+      "upgradeId": 31,
+      "oldPlan": "ZVA_FIBERNET_BASIC",
+      "newPlan": "ZVA_FIBERNET_LITE",
+      "newPrice": 23,
+      "upgradeBy": "0001",
+      "upgradeDate": "2022-07-20",
+      "soldToParty": "123457"
+    },
+    {
+      "upgradeId": 32,
+      "oldPlan": "ZVA_FIBERNET_BASIC",
+      "newPlan": "ZVA_FIBERNET_LITE",
+      "newPrice": 14,
+      "upgradeBy": "0001",
+      "upgradeDate": "2022-07-20",
+      "soldToParty": "123457"
+    }
+  ]
+}
