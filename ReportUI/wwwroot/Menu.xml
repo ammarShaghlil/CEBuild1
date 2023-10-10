@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Menu>
+
+  <Home ViewUrl="Home" Local="Home" Foreign="الرئيسة" imageUrl="images/Home1.png" Role="*"/>
+
+  <Commission  ViewUrl="#" Local="Commission" Foreign="العمولة" imageUrl="images/PAY.png" Role="*">
+    <Commission  ViewUrl="Commission/PendingCommissionList" Local="Pending Commissions" Foreign="قائمة العمولات"/>
+    <Commission  ViewUrl="Commission/CommissionList" Local="Commission Managment" Foreign="قائمة العمولات"/>
+  </Commission>
+
+  <CommissionPayout ViewUrl="#" Local="Commission payout" Foreign="العمولة" imageUrl="images/PAY.png" Role="*">
+    <CommissionPayout ViewUrl="CommissionPayout" Local="Commission payout" Foreign="قائمة العمولات"/>
+    <CommissionPayout ViewUrl="CommissionPayout/CommissionResubmissionPayout" Local="Commission Resubmission Payout" Foreign="اعادة دفع العمولات"/>
+  </CommissionPayout>
+
+  <!--
+  <CommissionRedeem ViewUrl="#" Local="Commission redeem" Foreign="العمولة" imageUrl="Images/PAY.png" Role="*">
+    <CommissionRedeem ViewUrl="Redeem" Local="Commission redeem" Foreign="قائمة العمولات"/>
+  </CommissionRedeem>
+  -->
+
+</Menu>
